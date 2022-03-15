@@ -9,4 +9,6 @@ public class emp1 {
         else
             System.out.println("Employee is Abscent");
     }
+
 }
+
